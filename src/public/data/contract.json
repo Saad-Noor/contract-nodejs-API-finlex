@@ -6,4 +6,5 @@
  ,{"name":"Steve Smith","address":"Fulda","totalPrice":200,"brokerName":"Andrew Flint","brokerAddress":"Hamburg","contractStartDate":"2020-06-28","contractEndDate":"2020-06-30"} 
  ,{"name":"Ryan Tod","address":"Wiesenmuhlen str 3, Fulda","totalPrice":400,"brokerName":"Harris Dean","brokerAddress":"Volta Strasse 4, Frankfurt","contractStartDate":"2020-07-23","contractEndDate":"2020-07-30"} 
  ,{"name":"Milad","address":"Frankfurt","totalPrice":500,"brokerName":"Finlex GmbH","brokerAddress":"Frankfurt","contractStartDate":"2020-06-20","contractEndDate":"2020-06-30"} 
- ,{"name":"asad","address":"france","totalPrice":22,"brokerName":"david","brokerAddress":"italy","contractStartDate":"2020-06-26","contractEndDate":"2020-07-10"}
+ ,{"name":"asad","address":"france","totalPrice":22,"brokerName":"david","brokerAddress":"italy","contractStartDate":"2020-06-26","contractEndDate":"2020-07-10"} 
+ ,{"name":"test","address":"no address","totalPrice":3992,"brokerName":"no 1","brokerAddress":"329 dskld","contractStartDate":"2020-06-20","contractEndDate":"2020-07-10"}
