@@ -1,3 +1,3 @@
 exports.CLIENT_ORIGIN = process.env.NODE_ENV === 'production'
-  ? ' https://finlex-backend.herokuapp.com '
+  ? ' heroku link'
   : 'http://localhost:4200'
