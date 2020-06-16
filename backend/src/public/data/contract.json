@@ -1,37 +1,9 @@
-{
-    "name": "John Joy",
-    "address": "Frankfurt",
-    "totalPrice": 300,
-    "brokerName": "Roy brown",
-    "brokerAddress": "Bremen",
-    "contractStartDate": "2020-06-30",
-    "contractEndDate": "2020-07-04"
-},
-{
-    "name": "Jason Holder",
-    "address": "Frankfurt",
-    "totalPrice": 900,
-    "brokerName": "Carlos Gayle",
-    "brokerAddress": "Berlin",
-    "contractStartDate": "2020-06-23",
-    "contractEndDate": "2020-06-30"
-},
-{
-    "name": "Steve Smith",
-    "address": "Fulda",
-    "totalPrice": 200,
-    "brokerName": "Andrew Flint",
-    "brokerAddress": "Hamburg",
-    "contractStartDate": "2020-06-28",
-    "contractEndDate": "2020-06-30"
-},
-{
-    "name": "Ryan Tod",
-    "address": "Wiesenmuhlen str 3, Fulda",
-    "totalPrice": 400,
-    "brokerName": "Harris Dean",
-    "brokerAddress": "Volta Strasse 4, Frankfurt",
-    "contractStartDate": "2020-07-23",
-    "contractEndDate": "2020-07-30"
-} 
- ,{"name":"Froyd Law","address":"Stuttgard","totalPrice":300,"brokerName":"Haris Dawn","brokerAddress":"Hanau","contractStartDate":"2020-09-17","contractEndDate":"2020-06-19"}
+ 
+
+
+ {"name":"John Joy","address":"Frankfurt","totalPrice":300,"brokerName":"Roy brown","brokerAddress":"Bremen","contractStartDate":"2020-06-30","contractEndDate":"2020-07-04"} 
+ ,{"name":"Jason Holder","address":"Frankfurt","totalPrice":900,"brokerName":"Carlos Gayle","brokerAddress":"Berlin","contractStartDate":"2020-06-23","contractEndDate":"2020-06-30"} 
+ ,{"name":"Steve Smith","address":"Fulda","totalPrice":200,"brokerName":"Andrew Flint","brokerAddress":"Hamburg","contractStartDate":"2020-06-28","contractEndDate":"2020-06-30"} 
+ ,{"name":"Ryan Tod","address":"Wiesenmuhlen str 3, Fulda","totalPrice":400,"brokerName":"Harris Dean","brokerAddress":"Volta Strasse 4, Frankfurt","contractStartDate":"2020-07-23","contractEndDate":"2020-07-30"} 
+ ,{"name":"Milad","address":"Frankfurt","totalPrice":500,"brokerName":"Finlex GmbH","brokerAddress":"Frankfurt","contractStartDate":"2020-06-20","contractEndDate":"2020-06-30"} 
+ ,{"name":"asad","address":"france","totalPrice":22,"brokerName":"david","brokerAddress":"italy","contractStartDate":"2020-06-26","contractEndDate":"2020-07-10"}
