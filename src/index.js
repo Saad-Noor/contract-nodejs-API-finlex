@@ -9,6 +9,7 @@ const routes = require('./routes')
 const app = express()
 
 app.use(bodyParser.json())
+  console.log(' client origin ' , CLIENT_ORIGIN);
   
 app.use(cors({ 
   origin: CLIENT_ORIGIN 
