@@ -1,5 +1,5 @@
-const express =require('express')
-const routes  = express.Router()
+const express = require('express')
+const routes = express.Router()
 
 const contract = require('./contract')
 
