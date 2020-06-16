@@ -1,8 +1,9 @@
 const contractModel = require('./../models/contract')
 const fs = require('fs')
+const path = require ('path')
 
 exports.List = async function (req, res) {
-    fs.readFile('./../src/public/data/contract.json', 'utf8', (err, jsonString) => {
+    fs.readFile('./public/data/contract.json', 'utf8', (err, jsonString) => {
         if (err) {
             console.log("File read failed:", err)
             return res.status(404).send({ status: false, message: 'Error reading file' })
@@ -20,7 +21,7 @@ exports.Create = async function (req, res) {
         jsonData = JSON.stringify(data)
         jsonData = " \n ," + jsonData
         console.log('data in data is', jsonData)
-        fs.appendFile('./../src/public/data/contract.json', jsonData, 'utf8',
+        fs.appendFile('./public/data/contract.json', jsonData, 'utf8',
             // callback function
             function (err) {
                 if (err) throw err;
